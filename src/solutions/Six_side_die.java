@@ -1,3 +1,4 @@
+package solutions;
 
 // A six-side die is a small cub with a different number of
 // of pips on each face(side), ranging 1 to 6.
